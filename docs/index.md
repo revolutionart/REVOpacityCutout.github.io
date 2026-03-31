@@ -1,6 +1,12 @@
 # REV Opacity Cutout Documentation
 
-Welcome to the documentation site.
+Welcome to the documentation site for the REVO Opacity Cutout Blender plugin.
+
+Start here:
+
+- Getting Started -> Introduction
+- Getting Started -> Learning Videos
+- Getting Started -> Installation and Update
 
 ## Local Development
 

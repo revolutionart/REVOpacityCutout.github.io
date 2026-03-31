@@ -6,6 +6,10 @@ theme:
   name: readthedocs
 nav:
   - Home: index.md
+  - Getting Started:
+      - Introduction: getting-started/introduction.md
+      - Learning Videos: getting-started/learning-videos.md
+      - Installation and Update: getting-started/installation-and-update.md
 markdown_extensions:
   - admonition
   - toc:
