@@ -7,7 +7,7 @@ No, vertex color data lives on the mesh, not the addon
 ### Q: Live Editing is slow on my mesh
 Turn it off and use Apply manually; high-poly meshes are expensive to re-evaluate on every slider drag
 ### Q: Is there a hard mesh size or polygon limit?
-No, there is no hard built-in limit. The practical limit is set by the user’s hardware, so very large meshes can still work, but performance will vary depending on the computer. The add-on has been confirmed to work with models ranging from 1 to 16 million polygons.
+No, there is no hard built-in limit. The practical limit is set by the user’s hardware, so very large meshes can still work, but performance will vary depending on the computer. The add-on has been confirmed to work with models ranging from a plane mesh to 8 million polygons.
 
 ## Setup
 
