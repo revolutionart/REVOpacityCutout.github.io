@@ -8,7 +8,20 @@ The foliage vertex paint workflow in REVO Opacity Cutout is inspired by the Mega
 
 - [Megascans vegetation workflow reference](https://youtu.be/6qtqVPqiwI4)
 
-## Practical Example
+
+## How it works - Opacity Cutout tool
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/FFBW52Zrbi8"
+    title="Plugin Demo"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
+## How it works - Vertex Painting
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe
     src="https://www.youtube.com/embed/KWkxsLi3nug"
