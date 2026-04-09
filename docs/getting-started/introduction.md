@@ -48,7 +48,7 @@ Use the **Install Dependencies** button in the add-on panel to install both pack
 
 ## Required Blender version
 
-- Minimum supported: Blender 4.0
+- Supported Blender versions: 4.0 to 5.1
 - Recommended: Blender 4.2+
 - Add-on version: 1.0.0
 - License: MIT

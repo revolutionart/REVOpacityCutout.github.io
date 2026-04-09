@@ -1,5 +1,7 @@
 # Installation and Update
 
+Supported Blender versions: 4.0 to 5.1. Recommended: Blender 4.2+.
+
 ## Installation
 
 ### Legacy Method (Blender 4.0 and 4.1)
