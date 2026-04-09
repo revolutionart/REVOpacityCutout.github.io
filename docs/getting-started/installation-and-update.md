@@ -1,17 +1,8 @@
 # Installation and Update
 
-Supported Blender versions: 4.0 to 5.1. Recommended: Blender 4.2+.
+Supported Blender versions: 4.2 to 5.1. Recommended: Blender 4.2+.
 
 ## Installation
-
-### Legacy Method (Blender 4.0 and 4.1)
-
-1. Go to **Edit -> Preferences**.
-2. Open the **Add-ons** tab.
-3. Press **Install**.
-4. Select `RevoOpacityCutout.zip`.
-5. Press **Install Add-on**.
-6. Enable **REVO Opacity Cutout** using the checkbox, then restart Blender.
 
 ### Drag-and-Drop (Blender 4.2+)
 
