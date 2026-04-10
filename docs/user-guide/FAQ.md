@@ -37,4 +37,16 @@ It doesn't; it re-seeds from system time every click. If values look similar, wi
 The 35% contrast gap logic helps but works best with a wide Min/Max range (e.g. 0–1)
 
 ---
+## Cutout
 
+### Q: Even Triangles looks wrong, What now?
+Try the following in the advanced settings.
+
+- **Contour Tolerance**: lower values keep the traced silhouette tighter and often fix unstable edge shapes.
+
+- **Gap Closing Radius**: increase it when tiny slits or breaks should merge; leave it at `0` to use the preset default instead of forcing a tiny manual override.
+- **Quality Preset**: move from **Medium** to **High** when thin features need a cleaner contour before re-triangulation.
+
+Make sure to always cut again after changing the advanced values, this is important, after that re-try **Apply Even Triangles**
+
+First undo the Even Triangles and the cutout. Adjust the advanced settings, then click Generate Cutout and Apply Even Triangles to generate the new result.
